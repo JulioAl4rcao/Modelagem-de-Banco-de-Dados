@@ -2,7 +2,7 @@
 # Modelagem de Banco de Dados
 
 Este repositório reúne atividades e projetos desenvolvidos durante os estudos de modelagem de dados, abordando conceitos essenciais para projetar bancos de dados eficientes, organizados e estruturados. O objetivo é entender profundamente como funcionam os sistemas de informação.
-
+```
 ---
 
 ## 📘 Sobre o Projeto
